@@ -7,11 +7,7 @@ This is a **Password Generator** application built in Java, designed to create s
 - **User Input-Based**: Creates unique passwords tied to individual user data for enhanced security.
 
 ## 📋 Usage
-To run the password generator, use the following command format, providing the necessary arguments:
-```bash
 java PasswordGenerator <name> <birthDate> <siteName>
-For example:
 
-bash
-Kodu kopyala
+For example:
 java PasswordGenerator JohnDoe 19900101 example.com
